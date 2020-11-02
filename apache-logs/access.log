@@ -1,0 +1,7 @@
+172.31.87.47 - - [01/Nov/2020:22:24:41 +0000] "GET / HTTP/1.1" 200 11173 "-" "curl/7.68.0"
+65.183.147.150 - - [01/Nov/2020:22:26:52 +0000] "GET / HTTP/1.1" 200 3477 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0"
+65.183.147.150 - - [01/Nov/2020:22:26:52 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://ec2-54-165-154-204.compute-1.amazonaws.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0"
+65.183.147.150 - - [01/Nov/2020:22:26:52 +0000] "GET /favicon.ico HTTP/1.1" 404 520 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0"
+122.117.46.190 - - [01/Nov/2020:22:27:20 +0000] "GET / HTTP/1.1" 200 3440 "-" "Mozilla/5.0"
+65.183.147.150 - - [01/Nov/2020:22:27:58 +0000] "GET / HTTP/1.1" 200 300 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0"
+65.183.147.150 - - [01/Nov/2020:22:52:25 +0000] "GET / HTTP/1.1" 304 180 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0"
